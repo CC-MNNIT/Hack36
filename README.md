@@ -6,8 +6,12 @@
   <h1>Hack36 8.0</h1>
   <h3>36 Hours of Innovation and Creation</h3>
 
-  [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/mfjB5hmnEf)
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hack36_/)
+<a href="https://discord.com/invite/mfjB5hmnEf">
+  <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://www.instagram.com/hack36_/">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 </div>
 
 ## Meet Our Mascot - Milo
