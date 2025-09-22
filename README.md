@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="./mascot.png" alt="Milo" width="300px">
-  <p><i>Meet Milo, your coding companion for Hack36 8.0!</i></p>
+  <p><i>Meet Milo, your coding companion for Hack36 9.0 Secure!</i></p>
 </div>
 
 Hack36 is MNNIT Allahabad's annual hackathon, bringing together innovators, developers, and problem-solvers for a thrilling 36-hour coding marathon. This year's Hack36 is part of the Network Security Bootcamp Supported by ISEA Phase III Project, Ministry of Electronics and IT, Government of India
