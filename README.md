@@ -1,7 +1,7 @@
 # Hack36
 
 <div align="center">
-  <img src="./banner.svg" alt="Hack36 9.0 Secure Banner" width="100%">
+  <img src="./banner.png" alt="Hack36 9.0 Secure Banner" width="100%">
   <br>
   <h1>Hack36 9.0 Secure</h1>
   <h3>36 Hours of Innovation and Creation</h3>
