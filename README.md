@@ -1,9 +1,9 @@
 # Hack36
 
 <div align="center">
-  <img src="./banner.png" alt="Hack36 8.0 Banner" width="100%">
+  <img src="./banner.svg" alt="Hack36 9.0 Secure Banner" width="100%">
   <br>
-  <h1>Hack36 8.0</h1>
+  <h1>Hack36 9.0 Secure</h1>
   <h3>36 Hours of Innovation and Creation</h3>
 
 <a href="https://discord.com/invite/mfjB5hmnEf">
@@ -21,7 +21,7 @@
   <p><i>Meet Milo, your coding companion for Hack36 8.0!</i></p>
 </div>
 
-Hack36 is MNNIT Allahabad's annual hackathon, bringing together innovators, developers, and problem-solvers for a thrilling 36-hour coding marathon.
+Hack36 is MNNIT Allahabad's annual hackathon, bringing together innovators, developers, and problem-solvers for a thrilling 36-hour coding marathon. This year's Hack36 is part of the Network Security Bootcamp Supported by ISEA Phase III Project, Ministry of Electronics and IT, Government of India
 
 ## Event Details
 
@@ -33,6 +33,7 @@ Hack36 is MNNIT Allahabad's annual hackathon, bringing together innovators, deve
 * Tech talks
 * Workshops
 * Networking opportunities
+* Internship Opportunities
 * Exciting surprises
 * Real-world problem solving
 * Collaborative environment
